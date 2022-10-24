@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modele-Vue-Controleur", "Modele-Vue-Controleur\Modele-Vue-Controleur.csproj", "{EE99F072-1F78-4780-9D28-017058F291F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modele-Vue-Vue-Modele", "Modele-Vue-Vue-Modele\Modele-Vue-Vue-Modele.csproj", "{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE99F072-1F78-4780-9D28-017058F291F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE99F072-1F78-4780-9D28-017058F291F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE99F072-1F78-4780-9D28-017058F291F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE99F072-1F78-4780-9D28-017058F291F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C5803F-2217-4570-94EB-4302D443CB07}
+	EndGlobalSection
+EndGlobal

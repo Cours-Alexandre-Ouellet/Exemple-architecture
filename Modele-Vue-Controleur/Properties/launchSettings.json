@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Modele-Vue-Controleur": {
+      "commandName": "Project",
+      "commandLineArgs": "HTML"
+    }
+  }
+}
