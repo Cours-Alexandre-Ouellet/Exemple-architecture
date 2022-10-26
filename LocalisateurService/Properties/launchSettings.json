@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LocalisateurService": {
+      "commandName": "Project",
+      "commandLineArgs": "HTML"
+    }
+  }
+}

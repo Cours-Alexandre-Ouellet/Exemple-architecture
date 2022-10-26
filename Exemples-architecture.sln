@@ -5,7 +5,13 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modele-Vue-Controleur", "Modele-Vue-Controleur\Modele-Vue-Controleur.csproj", "{EE99F072-1F78-4780-9D28-017058F291F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modele-Vue-Vue-Modele", "Modele-Vue-Vue-Modele\Modele-Vue-Vue-Modele.csproj", "{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modele-Vue-Vue-Modele", "Modele-Vue-Vue-Modele\Modele-Vue-Vue-Modele.csproj", "{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalisateurService", "LocalisateurService\LocalisateurService.csproj", "{5851D431-45F8-4F5E-A32A-D37F75B194DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data-Access-Object", "Data-Access-Object\Data-Access-Object.csproj", "{FFEBD0B6-1975-4DDF-8387-748A78D615E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectionDependances", "InjectionDependances\InjectionDependances.csproj", "{518EBCE3-5BCF-4A0D-8E96-2532CD8AE35B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BFADD60-1883-4FD7-9CFC-2033D1DE9423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5851D431-45F8-4F5E-A32A-D37F75B194DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5851D431-45F8-4F5E-A32A-D37F75B194DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5851D431-45F8-4F5E-A32A-D37F75B194DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5851D431-45F8-4F5E-A32A-D37F75B194DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEBD0B6-1975-4DDF-8387-748A78D615E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEBD0B6-1975-4DDF-8387-748A78D615E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEBD0B6-1975-4DDF-8387-748A78D615E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEBD0B6-1975-4DDF-8387-748A78D615E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518EBCE3-5BCF-4A0D-8E96-2532CD8AE35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518EBCE3-5BCF-4A0D-8E96-2532CD8AE35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518EBCE3-5BCF-4A0D-8E96-2532CD8AE35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518EBCE3-5BCF-4A0D-8E96-2532CD8AE35B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

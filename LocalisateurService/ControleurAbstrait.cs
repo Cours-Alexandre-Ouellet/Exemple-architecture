@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Modele_Vue_Controleur
+namespace LocalisateurService
 {
     class ControleurAbstrait
     {
@@ -34,7 +34,9 @@ namespace Modele_Vue_Controleur
         {
             return Activator.CreateInstance(
                 Assembly.GetExecutingAssembly().GetName().Name, 
-                $"Modele_Vue_Controleur.{nomVue}_{sortie}").Unwrap() as IVue;
+                $"{nomVue}_{sortie}").Unwrap() as IVue;
+
+            return null;
         }
     }
 }

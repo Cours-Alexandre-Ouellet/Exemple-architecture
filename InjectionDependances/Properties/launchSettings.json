@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Modele-Vue-Controleur": {
+    "InjectionDependances": {
       "commandName": "Project",
       "commandLineArgs": "JSON"
     }
